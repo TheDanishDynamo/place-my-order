@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/TheDanishDynamo/place-my-order.png?branch=master)](https://travis-ci.org/TheDanishDynamo/place-my-order)
+
+
 # place-my-order
 
 Welcome to the place-my-order DoneJS application!
